@@ -1,0 +1,11 @@
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\bin\Debug\BruteForceAnything.exe.config
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\bin\Debug\BruteForceAnything.exe
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\bin\Debug\BruteForceAnything.pdb
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.csproj.AssemblyReference.cache
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.csproj.SuggestedBindingRedirects.cache
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.Form1.resources
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.Properties.Resources.resources
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.csproj.GenerateResource.cache
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.csproj.CoreCompileInputs.cache
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.exe
+C:\Users\pronn\source\repos\BruteForceAnything\BruteForceAnything\obj\Debug\BruteForceAnything.pdb
